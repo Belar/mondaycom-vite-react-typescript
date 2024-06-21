@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mondaycom/apps-sdk": "^3.0.10",
+    "monday-sdk-js": "^0.5.5",
+    "monday-ui-react-core": "^2.113.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
